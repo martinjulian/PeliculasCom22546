@@ -1,0 +1,4 @@
+data\PeliculaDAO.class
+model\Pelicula.class
+data\Conexion.class
+controller\ServletControlador.class
